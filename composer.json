@@ -1,5 +1,5 @@
 {
-    "name": "stefein/slim-template",
+    "name": "stefein/slim-plate",
     "type": "project",
     "require": {
         "slim/slim": "^4.4",
