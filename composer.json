@@ -1,5 +1,5 @@
 {
-    "name": "submail/latest",
+    "name": "stefein/slim-template",
     "type": "project",
     "require": {
         "slim/slim": "^4.4",
